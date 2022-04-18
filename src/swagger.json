@@ -8,6 +8,7 @@
             "email": "thiagoaxsilva@gmail.com"
         }
     },
+    "paths": {
         "/users": {
             "get": {
                 "tags": ["users"],
